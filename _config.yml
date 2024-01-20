@@ -9,19 +9,13 @@ description:
   I am a software professional with 17+ years of experience in Java/JEE and related areas.
   I am a Sun Certified Enterprise Architect (SCEA 5.0). 
   I have also done the below java certifications and cloud certifications.
-  Java
   <ul>
-  <li>Sun Certified Web Component Developer</li>
-  <li>Sun Certified Business Component Developer</li>
-  <li>Sun Certified Java Programmer</li>
+    <li>Sun Certified Web Component Developer</li>
+    <li>Sun Certified Business Component Developer</li>
+    <li>Sun Certified Java Programmer</li>
+    <li>Oracle Cloud Infrastructure Foundations 2020 Certified Associate</li>
+    <li>AZ-900 - Microsoft Certified Azure Fundamentals</li>
   </ul>
-  Cloud
-  <ul>
-  <li>Oracle Cloud Infrastructure Foundations 2020 Certified Associate</li>
-  <li>AZ-900 - Microsoft Certified Azure Fundamentals</li>
-  </ul>
+  
   <br>
-
-
-
 theme: jekyll-theme-minimal
