@@ -1,6 +1,30 @@
-title: Minimal theme
+title: <p align="center"> Prasune John </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/PrasuneJohnResume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/prasune-john-10413427/">LinkedIn</a> |
+  <a href="https://github.com/prasune">GitHub</a>
+  
+  <br>   
+  I am a software professional with 17+ years of experience in Java/JEE and related areas.
+  I am a Sun Certified Enterprise Architect (SCEA 5.0). 
+  I have also done the below java certifications and cloud certifications:
+  Java:
+  <ul>
+  <li>Sun Certified Web Component Developer</li>
+  <li>Sun Certified Business Component Developer</li>
+  <li>Sun Certified Java Programmer</li>
+  </ul>
+  Cloud:
+  <ul>
+  <li>Oracle Cloud Infrastructure Foundations 2020 Certified Associate</li>
+  <li>AZ-900 - Microsoft Certified Azure Fundamentals</li>
+  </ul>
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
